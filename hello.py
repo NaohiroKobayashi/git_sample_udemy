@@ -17,3 +17,5 @@ class Hello:
     # 機能追加：こんにちは
     def say_konnichiwa(self):
         return f"こんにちは、{self.name}さん--"
+    def say_こんちは(self):
+        return f"こんにちは、{self.name}さん！"
